@@ -1,0 +1,4 @@
+This library is meant to take a program control flow graph and convert it some
+other form of output. Right now Graphviz is the default output.
+
+This library is licensed under the BSD license
